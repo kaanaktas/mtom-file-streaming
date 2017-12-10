@@ -1,0 +1,14 @@
+org\w3\_2005\_05\xmlmime\ObjectFactory.class
+com\sps\ws\wsdl\mtom\Topla.class
+com\sps\ws\mtom\AttachmentType.class
+org\w3\_2005\_05\xmlmime\package-info.class
+com\sps\ws\mtom\package-info.class
+com\sps\ws\wsdl\mtom\MtomPort.class
+com\sps\ws\wsdl\mtom\ObjectFactory.class
+com\sps\mtom\CustomMtomServer.class
+com\sps\ws\mtom\ObjectFactory.class
+com\sps\mtom\CustomMtomImpl.class
+com\sps\ws\wsdl\mtom\package-info.class
+org\w3\_2005\_05\xmlmime\Base64Binary.class
+com\sps\ws\wsdl\mtom\MTOM.class
+org\w3\_2005\_05\xmlmime\HexBinary.class
