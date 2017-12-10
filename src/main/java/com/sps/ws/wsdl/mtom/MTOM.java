@@ -17,7 +17,7 @@ import javax.xml.ws.WebServiceFeature;
  * Generated source version: 2.2
  * 
  */
-@WebServiceClient(name = "MTOM", targetNamespace = "http://ws.sps.com/wsdl/Mtom/", wsdlLocation = "file:/D:/Google%20Drive/Technical/repo/mtom-web/src/main/resources/Mtom.wsdl")
+@WebServiceClient(name = "MTOM", targetNamespace = "http://ws.sps.com/wsdl/Mtom/", wsdlLocation = "/resources/Mtom.wsdl")
 public class MTOM
     extends Service
 {
@@ -30,7 +30,7 @@ public class MTOM
         URL url = null;
         WebServiceException e = null;
         try {
-            url = new URL("file:/D:/Google%20Drive/Technical/repo/mtom-web/src/main/resources/Mtom.wsdl");
+            url = new URL("/resources/Mtom.wsdl");
         } catch (MalformedURLException ex) {
             e = new WebServiceException(ex);
         }
