@@ -15,7 +15,7 @@ import com.sps.ws.mtom.AttachmentType;
 	portName = "MtomSOAP", 
 	targetNamespace = "http://ws.sps.com/wsdl/Mtom/", 
 	endpointInterface = "com.sps.ws.wsdl.mtom.MtomPort", 
-	wsdlLocation = "Mtom.wsdl")
+	wsdlLocation = "WEB-INF/wsdl/Mtom.wsdl")
 public class MtomImpl {
 
 	@WebMethod

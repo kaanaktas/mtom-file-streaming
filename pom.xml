@@ -5,7 +5,7 @@
 	<artifactId>mtom-file-streaming</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tom-file-streaming</name>
+	<name>mtom-file-streaming</name>
 	<build>
 		<plugins>
 			<plugin>

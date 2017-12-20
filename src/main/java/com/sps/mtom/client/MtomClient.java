@@ -11,10 +11,10 @@ import javax.xml.ws.soap.MTOMFeature;
 import com.sps.ws.mtom.AttachmentType;
 import com.sps.ws.wsdl.mtom.MTOM;
 import com.sps.ws.wsdl.mtom.MtomPort;
-import com.sun.xml.ws.developer.JAXWSProperties;
+import com.sun.xml.internal.ws.developer.JAXWSProperties;
 
 public class MtomClient {
-	private static final String endpointAddress = "http://localhost:8080/mtom-file-streaming/MtomService";
+	private static final String endpointAddress = "http://localhost:8080/MtomService";
 
 	public static void main(String[] args) throws MalformedURLException {
 		MTOM service = new MTOM();
